@@ -1,0 +1,9 @@
+[submodule "objective-c"]
+	path = objective-c
+	url = git@github.com:jamiely/connect-four-objective-c.git
+[submodule "coffeescript"]
+	path = coffeescript
+	url = git@github.com:jamiely/connect-four-coffeescript.git
+[submodule "scala"]
+	path = scala
+	url = git@github.com:jamiely/connect-four-scala.git
