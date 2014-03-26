@@ -7,3 +7,6 @@
 [submodule "scala"]
 	path = scala
 	url = git@github.com:jamiely/connect-four-scala.git
+[submodule "go"]
+	path = go
+	url = git@github.com:jamiely/connect-four-go.git

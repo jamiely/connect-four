@@ -8,4 +8,5 @@ up this way.
 * Scala
 * Coffeescript
 * Objective-c (iOS)
+* Go
 
