@@ -5,8 +5,8 @@ up this way.
 
 # Languages
 
-* Scala
-* Coffeescript
-* Objective-c (iOS)
-* Go
+* Scala [![Build Status](https://travis-ci.org/jamiely/connect-four-scala.svg?branch=master)](https://travis-ci.org/jamiely/connect-four-scala)
+* Coffeescript [![Build Status](https://travis-ci.org/jamiely/connect-four-coffeescript.svg?branch=master)](https://travis-ci.org/jamiely/connect-four-coffeescript)
+* Objective-c (iOS) [![Build Status](https://travis-ci.org/jamiely/connect-four-objective-c.svg?branch=master)](https://travis-ci.org/jamiely/connect-four-objective-c)
+* Go [![Build Status](https://travis-ci.org/jamiely/connect-four-go.svg?branch=master)](https://travis-ci.org/jamiely/connect-four-go)
 
