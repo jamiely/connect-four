@@ -10,3 +10,9 @@
 [submodule "go"]
 	path = go
 	url = git@github.com:jamiely/connect-four-go.git
+[submodule "connect-four-rust"]
+	path = connect-four-rust
+	url = git@github.com:jamiely/connect-four-rust.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:jamiely/connect-four-rust.git
