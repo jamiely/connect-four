@@ -16,3 +16,6 @@
 [submodule "rust"]
 	path = rust
 	url = git@github.com:jamiely/connect-four-rust.git
+[submodule "haskell"]
+	path = haskell
+	url = git@github.com:jamiely/connect-four-haskell.git
