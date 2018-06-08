@@ -6,6 +6,7 @@ up this way.
 # Languages
 
 * Coffeescript [![Build Status](https://travis-ci.org/jamiely/connect-four-coffeescript.svg?branch=master)](https://travis-ci.org/jamiely/connect-four-coffeescript)
+* Elixir [![Build Status](https://travis-ci.org/jamiely/connect-four-elixir.svg?branch=master)](https://travis-ci.org/jamiely/connect-four-elixir)
 * Go [![Build Status](https://travis-ci.org/jamiely/connect-four-go.svg?branch=master)](https://travis-ci.org/jamiely/connect-four-go)
 * Haskell [![Build Status](https://travis-ci.org/jamiely/connect-four-haskell.svg?branch=master)](https://travis-ci.org/jamiely/connect-four-haskell)
 * Objective-c (iOS) [![Build Status](https://travis-ci.org/jamiely/connect-four-objective-c.svg?branch=master)](https://travis-ci.org/jamiely/connect-four-objective-c)
